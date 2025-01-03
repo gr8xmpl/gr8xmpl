@@ -1,4 +1,4 @@
-👋 Hi there, I'm #@gr8xmpl!#
+👋 Hi there, I'm ***@gr8xmpl!***
 A creative developer and lifelong hobby collector. 
 🔭 What I Do:
 I specialize in data analytics, creative solutions, and automating workflows to streamline development.

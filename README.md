@@ -1,9 +1,7 @@
 👋 Hi there, I'm **@gr8xmpl!**
-
 A creative developer and lifelong hobby collector. 
 
 🔭 What I Do:
-
 I specialize in data analytics, creative solutions, and automating workflows to streamline development.
 
 🌱 I’m excited about collaborating on open-source projects and innovative app development.
@@ -11,7 +9,6 @@ I specialize in data analytics, creative solutions, and automating workflows to 
 📫 Reach me at greyateverything@gmail.com
 
 ⚡ Fact (Dwight Shrute Voice): 
-
 I’m a multi-instrumentalist exploring the intersect of art and tech.
 <!---
 gr8xmpl/gr8xmpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

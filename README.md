@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey there, I'm @gr8xmpl!
 
-<!--
-**gr8xmpl/gr8xmpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lifelong hobby collector, multi-instrumentalist, and aspiring creative developer.
 
-Here are some ideas to get you started:
+🔭 What I Do:
+Specializing in strategic market expansion, data analytics, creative solutions, and automating workflows to streamline development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm Into:
+Collaborating on open-source projects and innovative app development.
+
+📫 Reach Me: greyateverything@gmail.com
+
+⚡ Passionate About: The intersection of art and tech.
